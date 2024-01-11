@@ -1,4 +1,4 @@
 document.querySelector('.hamburger').addEventListener('click', () => {
-  document.querySelector('.nav-links').classList.toggle('.expanded')
-  alert("navi clicked")
+  document.querySelector('.nav-links').classList.toggle('expanded')
+  // alert("navi clicked")
 })
