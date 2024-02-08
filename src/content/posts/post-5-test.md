@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MardownPostLayout.astro
+# layout: ../../layouts/MardownPostLayout.astro
 title: This is my test blog
 author: Astro Learner
 description: "This post will show up on its own!"
